@@ -1,0 +1,34 @@
+.swiper-banner {
+  height: 550px;
+  @media (max-width:768px) {
+    height: 400px;
+  }
+  .banner-link{
+    background-color: rgba(0,0,0,0.5);
+  }
+}
+.banner-btn{
+  color:black;
+  background-color: rgba(255,255,255,0.75);
+}
+.banner1{
+  background: url(pic/001.jpeg) center;
+  background-size: cover;
+}
+.banner2{
+  background: url(pic/002.jpeg) center;
+  background-size: cover;
+
+}
+.banner3{
+  background: url(https://partipost.com/tw/wp-content/uploads/2021/12/Emoji.004.png)center;
+  background-size: cover;
+}
+.bg-wooden {
+  background-image: url(https://partipost.com/tw/wp-content/uploads/2021/12/Emoji.004.png);
+  background-attachment: fixed;
+}
+.bg-dessert {
+  background-image: url(https://upload.cc/i1/2020/07/04/xM5R72.jpg);
+  background-position: bottom;
+}
