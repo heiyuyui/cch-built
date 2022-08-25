@@ -1,4 +1,4 @@
-# 甜點電商網站 [Bakery](https://kevin8521883.github.io/VueCli4_Bakery/#/)
+# 甜點電商網站 [Bakery](httpery/#/)
 
 ### 功能
 前台：
